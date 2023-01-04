@@ -8,7 +8,7 @@ const Homepage = () => {
   return (
     <Container className='gap d-g mt mb'>
       <Row md={5} className='gap'>
-        <Link className='WH-200 center box-shaodw text-dec' to='day1'>
+        <Link className='WH-200 center box-shaodw text-dec' to='/day1'>
           <Col className='font-size ft-black'> 1</Col>
         </Link>
 
